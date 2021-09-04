@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/gambiolo/algoriddims/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## It is a weird thing to study tech and music at the same time, but keeping it weird is not forbiden, and sometimes you need to make shit happens because it's worth it...association is key, cannot wait to mint that up
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### ITS WORTH IT to book Moodymann in Texas because he was forbiden in that specific states (I took that personally) 
 
-### Markdown
+### ITS WORTH IT organising an after party with Osunlade at a festival up in the french alps
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### ITS WORTH IT to book Mala to play in Paris for the first time
 
-```markdown
-Syntax highlighted code block
+### ITS WORTH IT getting GOTAN PROJECT inna 17's century building in the prostitute quarter
 
-# Header 1
-## Header 2
-### Header 3
+![Capture d’écran 2021-09-04 à 23 44 31](https://user-images.githubusercontent.com/86488172/132108761-e4c728d7-6f55-4fea-a750-70cb2877bb69.png)
 
-- Bulleted
-- List
+## the rest can be seen here and there on social networks, photo works stolen or paid from 10 years of serendipity in the worldwide web meeting with Lee Scracth Perry, Iggy Pop, Yasiin Bey, Madlib, George Clinton realy complementary to the academic/institutional world we are dealing with:
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+![Capture d’écran 2021-09-04 à 23 49 16](https://user-images.githubusercontent.com/86488172/132108951-ff93964d-3984-4e16-8990-58e7b1a70f34.png)
+![Capture d’écran 2021-09-04 à 23 48 08](https://user-images.githubusercontent.com/86488172/132108953-936d38cf-cad9-4e79-8303-53115840d8d3.png)
+![Capture d’écran 2021-09-04 à 23 47 52](https://user-images.githubusercontent.com/86488172/132108954-92e41877-e407-4000-bed3-8f3c99307bd1.png)
+![Capture d’écran 2021-09-04 à 23 53 00](https://user-images.githubusercontent.com/86488172/132108948-b4682a32-3d29-4c23-ab74-f33e91dc6e2b.png)
+![Capture d’écran 2021-09-04 à 23 51 47](https://user-images.githubusercontent.com/86488172/132108949-621a1377-97c7-43f5-8550-11861163a9ed.png)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gambiolo/algoriddims/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
